@@ -1,4 +1,4 @@
-# Приватный сносер для удаления аккаунтов, чатов, ботов и каналов.
+/storage/emulated/0/Download/snoser_spider-sampovsky/snoser_spider-sampovsky/snoser_mod.py# Приватный сносер для удаления аккаунтов, чатов, ботов и каналов.
 ![image](https://github.com/user-attachments/assets/d27480c1-912c-4549-bbae-417ebef66bb0)
 
 
